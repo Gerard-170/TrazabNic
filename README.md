@@ -6,3 +6,5 @@ LCD 2X16 I2C
 TECLADO 4X4
 RFID MODULE TTL RS232
 SD CARD MODULE
+
+El codigo es menu de opciones el cual contiene las funciones que el usuario quiere realizar. 
